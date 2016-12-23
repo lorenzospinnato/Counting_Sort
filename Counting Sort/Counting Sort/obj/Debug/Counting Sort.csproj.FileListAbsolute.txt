@@ -1,0 +1,12 @@
+C:\Users\luca\Desktop\Counting Sort\Counting Sort\bin\Debug\Counting Sort.exe.config
+C:\Users\luca\Desktop\Counting Sort\Counting Sort\bin\Debug\Counting Sort.exe
+C:\Users\luca\Desktop\Counting Sort\Counting Sort\bin\Debug\Counting Sort.pdb
+C:\Users\luca\Desktop\Counting Sort\Counting Sort\obj\Debug\Counting Sort.csprojResolveAssemblyReference.cache
+C:\Users\luca\Desktop\Counting Sort\Counting Sort\obj\Debug\Counting Sort.exe
+C:\Users\luca\Desktop\Counting Sort\Counting Sort\obj\Debug\Counting Sort.pdb
+E:\Scuola\Quarta Superiore\Informatica\Counting Sort\Counting Sort\bin\Debug\Counting Sort.exe.config
+E:\Scuola\Quarta Superiore\Informatica\Counting Sort\Counting Sort\obj\Debug\Counting Sort.exe
+E:\Scuola\Quarta Superiore\Informatica\Counting Sort\Counting Sort\obj\Debug\Counting Sort.pdb
+E:\Scuola\Quarta Superiore\Informatica\Counting Sort\Counting Sort\bin\Debug\Counting Sort.exe
+E:\Scuola\Quarta Superiore\Informatica\Counting Sort\Counting Sort\bin\Debug\Counting Sort.pdb
+E:\Scuola\Quarta Superiore\Informatica\Counting Sort\Counting Sort\obj\Debug\Counting Sort.csprojResolveAssemblyReference.cache
